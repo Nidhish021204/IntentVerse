@@ -1,7 +1,7 @@
 
 # 🧠 IntentVerse: Explainable Neural Semantics for Intent Classification
 
-![IntentVerse Banner](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*Wp6xybqtU7ygrsJJ2-PzWw.png)
+![IntentVerse Banner](https://chatgpt.com/c/67f75924-0398-8009-aee5-ec172309846c)
 
 **IntentVerse** explores the intersection of explainable AI and intent classification using both traditional and deep learning models. Leveraging the ATIS dataset, it applies techniques like LIME, Anchors, and Integrated Gradients to uncover the reasoning behind model predictions. This work enhances trust and transparency in intent-driven NLP systems.
 
