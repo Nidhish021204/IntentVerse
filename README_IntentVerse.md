@@ -73,7 +73,7 @@ python explain.py --method=lime --model=lstm
 ## 👨‍💻 Author
 
 **Nidhish Chettri**  
-B.Tech CSE (2nd Year)  
+B.Tech Information Technology and Engineering (2nd Year)  
 Maharaja Agrasen Institute of Technology, Delhi  
 
 ---
